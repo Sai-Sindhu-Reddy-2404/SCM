@@ -1,4 +1,5 @@
-[200~#!/bin/bash
+# !bin/bash
+# This program counts till 5 and break using whileloop
 valid=true
 count=1
 while [ $valid ]
